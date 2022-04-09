@@ -32,6 +32,8 @@ Use imshow to show the image
 
 End the program and close the output video windows by pressing 'q'
 
+
+
 ## Program:
 ``` Python
 ### Developed By: Aditya JV
@@ -117,6 +119,7 @@ while True:
         break
 cap.release()
 cv2.destroyAllWindows()
+
 
 
 
